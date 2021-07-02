@@ -13,7 +13,9 @@ const i18n = new VueI18n({
     locale: 'zh-CN',
     messages: {
         'zh-CN': require('@/assets/languages/zh-CN.json'),
-        'en-US': require('@/assets/languages/en-US.json')
+        'en-US': require('@/assets/languages/en-US.json'),
+        'mn-MN': require('@/assets/languages/mn-MN.json')
+        
     }
 });
 
