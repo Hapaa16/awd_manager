@@ -47,7 +47,7 @@ export default {
   // components: {TaskView},
   data: () => ({
     base: {
-      Title: ''
+      Title: 'nabagang'
     },
     taskVisible: false,
   }),
